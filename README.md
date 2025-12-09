@@ -1,6 +1,7 @@
 
 <h1> Welcome to Shawn's Portfolio</h1>
 
+<h2><a href ="https://www.credly.com/users/shawn-blain/edit#credly">Certification</h2> 
 <h2>Information Technology</h2>
 
 <h2>CyberSecurity</h2>
